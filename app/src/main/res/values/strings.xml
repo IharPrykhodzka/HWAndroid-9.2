@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HWAndroid 9.2</string>
+    <string name="ok">Подтвердить</string>
+    <string name="hello_my_friend">Здравствуй Друг Мой</string>
+    <string name="languages">Выберите язык</string>
+    <string name="themes">Выберите отступы</string>
+
+    <string-array name="spinnerLanguages">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+
+    <string-array name="spinnerThemes">
+        <item>мелкие</item>
+        <item>средние</item>
+        <item>большие</item>
+    </string-array>
+</resources>
